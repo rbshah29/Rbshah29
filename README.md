@@ -13,8 +13,6 @@ I'm a passionate software developer with a strong interest in developing innovat
 - **Databases:** MySQL, MongoDB, Firebase, Supabase, Postgres 
 - **Tools & Platforms:** Git, Docker, AWS, GCP
 
-(https://github.com/rbshah29/project-name)
-
 ## GitHub Stats
 ![rbshah29's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbshah29&show_icons=true&theme=radical)
 
