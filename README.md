@@ -17,6 +17,6 @@ I'm a passionate software developer with a strong interest in developing innovat
 ![rbshah29's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbshah29&show_icons=true&theme=radical)
 
 ## Contact Me
-Feel free to reach out to me through [Email](mailto: rbshah0029@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/rbshah29](https://www.linkedin.com/in/rutvik-shah-343945178)).
+Feel free to reach out to me through [Email](mailto: rbshah0029@gmail.com) or connect with me on  [LinkedIn](https://www.linkedin.com/in/rutvik-shah-343945178).
 
 Thanks for visiting my profile!
