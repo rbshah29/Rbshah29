@@ -3,7 +3,6 @@
 ## About Me
 I'm a passionate software developer with a strong interest in developing innovative solutions and exploring new technologies. I enjoy coding, learning, and sharing knowledge with the community.
 
-- 🌱 I’m currently learning advanced algorithms and data structures.
 - 💬 Ask me about Python, JavaScript, and Web Development.
 - 📫 How to reach me: [Email](mailto: rbshah0029@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rutvik-shah-343945178)
 
