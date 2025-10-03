@@ -10,9 +10,8 @@ I’m a developer who speaks both backend and frontend fluently (been at it for 
 - **Tools & Platforms:** Git, Docker, AWS, GCP
 
 ## Find me around the web
-- Feel free to reach out to me through [Email](mailto: rbshah0029@gmail.com).
-- Learning in public on [rshah.dev](https://rshah.dev)
+- I am here [rshah.dev](https://rshah.dev)
 - Connect with me on  [LinkedIn](https://www.linkedin.com/in/rutvik-shah-343945178)
-
+- Feel free to reach out to me through [Email](mailto: rbshah0029@gmail.com).
 
 Thanks for visiting my profile!
